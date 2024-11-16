@@ -36,3 +36,7 @@ define method .FileManager()
     
 
 endmethod
+
+define method .SetPath(!path is string)
+    !this.path = !path
+endmethod
