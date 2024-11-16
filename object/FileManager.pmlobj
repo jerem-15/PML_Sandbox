@@ -1,0 +1,38 @@
+--|------------------------------------------------------------------------------------------------
+--|
+--|
+--| Copyright 2024 to current year. Company Name. All rights reserved.
+--|
+--|
+--| Other copyright Information goes here!
+--|
+--| Author: <First Last>
+--| Date: "2024-11-16"
+--| Filename: "FileManager.pmlobj"
+--|
+--|------------------------------------------------------------------------------------------------
+
+
+define object FileManager
+
+    member .name is Array
+    member .path is string
+    
+
+endobject
+
+
+--|------------------------------------------------------------------------------------------------
+--|  Method Name : .FileManager()
+--|------------------------------------------------------------------------------------------------
+--|
+--|  Description : This is the construct method
+--|  Arguments   : None
+--|  Return      : Void
+--|
+--|------------------------------------------------------------------------------------------------
+
+define method .FileManager()
+    
+
+endmethod
